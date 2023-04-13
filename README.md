@@ -50,7 +50,7 @@ Contributions to this portfolio are welcome! If you find any issues or have sugg
 This portfolio is open-source and available under the MIT License.
 
 ## Contact Information
-If you have any questions or would like to get in touch with me, please contact me at djones_15@hotmail.com You can also visit my website at https://daleyjones.github.io/daleys-portfolio-codeZ/#work for more information about me and my projects.
+If you have any questions or would like to get in touch with me, please contact me at djones_157@hotmail.com You can also visit my website at https://daleyjones.github.io/daleys-portfolio-codeZ/#work for more information about me and my projects.
 
 ## portfolio image
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./assets/images/portfolio.png)
